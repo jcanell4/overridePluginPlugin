@@ -1,9 +1,7 @@
 *
 
 !admin.php
-!ap_enable.class.php
-!ap_download.class.php
-!ap_delete.class.php
+!ap_manage.class.php
 !.gitignore
 
 !*/
